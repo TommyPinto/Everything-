@@ -1,6 +1,8 @@
 // sum the numbers from 1 to n and return the answer
 #include <iostream>
 using namespace std;
+//Thomas Pinto
+//I pledge my honor I have abided by the Stevens honor System
 int sum(int n) {
 	int total = 0;
 for(int i=0;i<=n;i++ )
